@@ -1,3 +1,9 @@
 deadlock
 
 lock contention
+
+atomic ops
+	32,64,bit manip
+spin lock ops - nsleep
+semaphores - sleep
+
